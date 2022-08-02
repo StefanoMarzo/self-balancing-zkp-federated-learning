@@ -38,4 +38,4 @@ Given the results obtained, Z-Fed can reduce discriminatory
 behaviors of FL AI and enhance trustworthy federated learning.
 
 ## Paper
-[Privacy-enhanced ZKP Framework for Balanced Federated Learning](https://github.com/StefanoMarzo/self-balancing-zkp-federated-learning/docs/z-fed.pdf)
+[Privacy-enhanced ZKP Framework for Balanced Federated Learning](https://github.com/StefanoMarzo/self-balancing-zkp-federated-learning/blob/main/docs/z-fed.pdf)
